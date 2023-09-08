@@ -23,10 +23,25 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-    	<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1234567890123456" crossorigin="anonymous"></script>
-		</Head>
-	
+        </Head>
+
         <body>
+          <header>
+            <nav>
+              <ul>
+                <li>
+                  <a href="/">Home</a>
+                </li>
+                <li>
+                  <a href="/privacy">Privacy</a>
+                </li>
+                <li>
+                  <a href="#">Post</a>
+                </li>
+              </ul>
+            </nav>
+          </header>
+
           <Main />
           <NextScript />
         </body>

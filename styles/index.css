@@ -77,3 +77,23 @@ input[type="text"] + button {
 .thumbnail-option button:hover {
   background-color: #2680c5;
 }
+
+header nav ul {
+  display: flex;
+  list-style: none;
+}
+
+header nav ul li {
+  margin-right: 10px;
+}
+
+header nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+header nav ul li a:hover {
+  text-decoration: underline;
+}
+
+
