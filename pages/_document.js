@@ -26,6 +26,15 @@ class MyDocument extends Document {
         </Head>
 
         <body>
+      
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X8WWC9D061"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X8WWC9D061');
+</script>
           <header>
             <nav>
               <ul>
