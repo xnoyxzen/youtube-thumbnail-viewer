@@ -37,10 +37,10 @@ const Index = () => {
     <div className="container mx-auto px-4 py-8">
       <header className="text-center mb-8">
         <h1 className="text-3xl font-bold mb-2">
-          Youtube Thumbnail Downloader
+          Youtube Thumbnail Grabber
         </h1>
         <p className="text-gray-600">
-          Download high-quality thumbnails from YouTube videos.
+        Download youtube thumbnail image, Grab youtube video thumbnails images easy way get Thumbnail Image and save yt thumbnail images with our free online thumbnail downloader tool you can select List of sizes and qualities 4k, HQ, HD,SD, MQ, The perfect size is 1280 X 720 pixels. generate YouTube video thumbnail Start download YT image it in just a few seconds for free.
         </p>
       </header>
       <div className="text-center">
