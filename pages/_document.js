@@ -5,6 +5,8 @@ class MyDocument extends Document {
     return (
       <Html lang="en">
         <Head>
+        <meta name="google-site-verification" content="ev2zqiEtNbe8-uwfHM4WMVMk4cyoWIn13FaJiKH6WfE" />
+
           <link
             rel="apple-touch-icon"
             sizes="180x180"
@@ -129,7 +131,7 @@ class MyDocument extends Document {
               </ul>
 			  </nav>
         <p style={{ textAlign: "center" }}>
-              © {new Date().getFullYear()} Copyright 2023. Made by love: youness kasmi. All rights reserved.
+              © {new Date().getFullYear()} Copyright 2023. Made by love imeanation and youness kasmi. All rights reserved.
             </p>
 
 </footer>
