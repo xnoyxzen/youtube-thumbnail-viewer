@@ -23,6 +23,18 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
+
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-X8WWC9D061"></script>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', 'G-X8WWC9D061');
+              `,
+            }}
+          />
         </Head>
 
         <body>
@@ -32,7 +44,7 @@ class MyDocument extends Document {
             <nav>
               <ul>
                 <li>
-                  <h1><a href="/">Youtube Thumbnail Grabber</a></h1>
+                  <h2><a href="/">youtube thumbnail download</a></h2>
                 </li>
                 
               </ul>
@@ -45,7 +57,7 @@ class MyDocument extends Document {
           <NextScript />
 		  
 	<div>
-  <h1>Unlocking the YouTube Thumbnail Formula: The Ultimate Guide to Skyrocket Your Views</h1>
+  <h2>Unlocking the YouTube Thumbnail Formula: The Ultimate Guide to Skyrocket Your Views</h2>
   <h2>Introduction</h2>
   <p>The importance of YouTube thumbnails in attracting views</p>
 
