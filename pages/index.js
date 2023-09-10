@@ -55,7 +55,7 @@ const Index = () => {
           className="btn-blue mt-2"
           onClick={() => getYouTubeThumbnail(videoURL)}
         >
-          Download Thumbnails
+          Get Thumbnails images
         </button>
       </div>
       {thumbnailOptions.length > 0 && (

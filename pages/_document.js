@@ -23,29 +23,16 @@ class MyDocument extends Document {
             href="/favicon/favicon-16x16.png"
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
-		   {/* Add Google Analytics script */}
-          <script
-            async
-            src={`https://www.googletagmanager.com/gtag/js?id=G-X8WWC9D061`}
-          ></script>
-          <script
-            dangerouslySetInnerHTML={{
-              __html: `
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){dataLayer.push(arguments);}
-                gtag('js', new Date());
-                gtag('config', 'G-X8WWC9D061');
-              `,
-            }}
-          />
         </Head>
 
         <body>
+      
+        
           <header>
             <nav>
               <ul>
                 <li>
-                  <h2><a href="/">Youtube Thumbnail Grabber</a></h2>
+                  <h1><a href="/">Youtube Thumbnail Grabber</a></h1>
                 </li>
                 
               </ul>
