@@ -106,9 +106,7 @@ class MyDocument extends Document {
 </div>
 
 <footer>
-  <p style={{ textAlign: "center" }}>
-              © {new Date().getFullYear()} Your Company Name. All rights reserved.
-            </p>
+  
 			<nav>
 			<ul>
               
@@ -118,6 +116,10 @@ class MyDocument extends Document {
              
               </ul>
 			  </nav>
+        <p style={{ textAlign: "center" }}>
+              © {new Date().getFullYear()} Copyright 2023. Made by love: youness kasmi. All rights reserved.
+            </p>
+
 </footer>
         </body>
       </Html>
