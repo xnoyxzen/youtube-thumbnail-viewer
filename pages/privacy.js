@@ -1,4 +1,4 @@
-import Document, {  Head, } from "next/document";
+import privacy, {  Head, } from "next/privacy";
 
 const PrivacyPage = () => {
   return (
