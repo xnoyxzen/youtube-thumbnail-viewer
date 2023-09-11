@@ -46,7 +46,7 @@ class MyDocument extends Document {
             <nav>
               <ul>
                 <li>
-                  <h2><a href="/">Download Youtube Thumbnails </a></h2>
+                  <h1><a href="/">Youtube Thumbnails Grabber</a></h1>
                 </li>
                 
               </ul>
@@ -138,7 +138,7 @@ class MyDocument extends Document {
 
   <h3 dir="auto">Conclusion:</h3>
 <div dir="auto">In the fierce competition for viewer attention on YouTube, thumbnails act as your first impression and can make or break the success of your videos. By leveraging attractive thumbnails and employing diverse strategies, you can boost your video's click-through rates, increaseTitle: "Unlocking Success: The Importance of YouTube Thumbnails and Strategies for Creating Attractive Images"</div>
-  <p>The importance of YouTube thumbnails in attracting views</p>
+  <p>The importance of YouTube thumbnails ivn attracting views</p>
 
   
 
@@ -156,7 +156,7 @@ class MyDocument extends Document {
               </ul>
 			  </nav>
         <p style={{ textAlign: "center" }}>
-              © {new Date().getFullYear()} Copyright 2023. Made by love imeanation and youness kasmi. All rights reserved.
+              © {new Date().getFullYear()} Copyright 2023. Made by love With iScript All rights reserved.
             </p>
 
 </footer>
