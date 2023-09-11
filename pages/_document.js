@@ -46,7 +46,7 @@ class MyDocument extends Document {
             <nav>
               <ul>
                 <li>
-                  <h2><a href="/">youtube thumbnail download</a></h2>
+                  <h2><a href="/">Download Youtube Thumbnails </a></h2>
                 </li>
                 
               </ul>
