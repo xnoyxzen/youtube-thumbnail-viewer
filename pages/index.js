@@ -36,9 +36,7 @@ const Index = () => {
   return (
     <div className="container mx-auto px-4 py-8">
       <header className="text-center mb-8">
-        <h1 className="text-3xl font-bold mb-2">
-        Youtube Thumbnail Grabber 
-        </h1>
+       
         <p className="text-gray-600">
         Get high-quality thumbnail images for free with our Image Grabber tool. Easily download YouTube thumbnail images and photos of various qualities using this application. Simply paste the video's thumbnail URL into the input box below and click 'Get Youtube Thumbnail'.</p>
       </header>
