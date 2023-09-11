@@ -1,4 +1,4 @@
-import Document, { Html, Head, } from "next/document";
+import Document, {  Head, } from "next/document";
 
 const PrivacyPage = () => {
   return (
@@ -6,7 +6,7 @@ const PrivacyPage = () => {
       <h2>Privacy Policy for Download Youtube Thumbnail</h2>
 
       <p>
-        At Youtube thumbnail grabber, accessible from <a href="https://youtubethumbnaildownlaoder.com/">https://youtubethumbnaildownlaoder.com/</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Youtube thumbnail grabber and how we use it.
+        At Youtube thumbnail grabber, accessible from <a href="https://youtube-thumbnail-viewer.com/">https://youtube-thumbnail-viewer.com</a>, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Youtube thumbnail grabber and how we use it.
       </p>
 
       <p>
