@@ -1,4 +1,3 @@
-import Document, { Html, Head, } from "next/document";
 
 const PrivacyPage = () => {
   return (
