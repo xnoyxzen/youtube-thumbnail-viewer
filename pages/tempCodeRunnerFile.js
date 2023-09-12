@@ -1,7 +1,5 @@
 
-const PrivacyPage = () => {
-  return (
-    <div>
+       <div>
       <h2>Privacy Policy for Download Youtube Thumbnail</h2>
 
       <p>
@@ -11,7 +9,7 @@ const PrivacyPage = () => {
       <p>
         If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
       </p>
-
+s
       <p>
         This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Youtube thumbnail grabber. This policy is not applicable to any information collected offline or via channels other than this website.
       </p>
@@ -70,7 +68,3 @@ const PrivacyPage = () => {
        <p> Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity. </p>
 	    <p> Youtube thumbnail grabber does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records. </p>
     </div>
-  );
-};
-
-export default PrivacyPage;

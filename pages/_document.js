@@ -26,14 +26,14 @@ class MyDocument extends Document {
           />
           <link rel="manifest" href="/favicon/site.webmanifest" />
 
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-X8WWC9D061"></script>
+          <script async src="https://www.googletagmanager.com/gtag/js?id=G-4HVF16RL4C"></script>
           <script
             dangerouslySetInnerHTML={{
               __html: `
                 window.dataLayer = window.dataLayer || [];
                 function gtag(){dataLayer.push(arguments);}
                 gtag('js', new Date());
-                gtag('config', 'G-X8WWC9D061');
+                gtag('config', 'G-4HVF16RL4C');
               `,
             }}
           />
@@ -57,8 +57,10 @@ class MyDocument extends Document {
 
           <Main />
           <NextScript />
-		  
-	<div>
+          
+    <div>      
+    </div>
+<div>
 
      <p></p>
  <p></p>
@@ -146,18 +148,19 @@ class MyDocument extends Document {
 
 <footer>
   
-			<nav>
-			<ul>
+		
               
-                <li>
-                  <a href="/privacy">Privacy Policy</a>
-                </li>
+               
              
-              </ul>
-			  </nav>
-        <p style={{ textAlign: "center" }}>
+       
+                <p>  <a href="/post/privacy.html">Privacy Policy</a>
+                </p>
+        <p style={{ textAlign: "center", color: "black"  }}>
               © {new Date().getFullYear()} Copyright 2023. Made by love With iScript All rights reserved.
-            </p>
+              </p>
+              
+              
+            
 
 </footer>
         </body>

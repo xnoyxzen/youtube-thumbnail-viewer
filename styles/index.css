@@ -39,7 +39,7 @@ input[type="text"] + button {
 
 /* Style the "Download Thumbnails" button */
 .btn-blue {
-  background-color: #ff0000;
+  background-color: #09ff00e5;
   color: rgb(0, 0, 0);
   font-weight: bold;
   padding: 0.5rem 1rem;
@@ -106,3 +106,14 @@ header nav ul li a:hover {
 }
 
 
+a {
+  color: rgb(29, 29, 29);
+  text-decoration: none;
+  display: flex;
+  list-style: none;
+
+}
+
+a:hover {
+  text-decoration: underline;
+}
