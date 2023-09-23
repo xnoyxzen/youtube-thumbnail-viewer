@@ -54,8 +54,8 @@ class MyDocument extends Document {
           </header>
 
          
-<a href="https://www.jdoqocy.com/click-100844527-13671329" target="_top">
-<img src="https://www.awltovhc.com/image-100844527-13671329" width="200" height="200" alt="" border="0"/></a>
+<a href="https://www.jdoqocy.com/click-100844527-11793727" target="_top">
+<img src="https://www.lduhtrp.net/image-100844527-11793727" width="728" height="90" alt="" border="0"/></a>
           <Main />
           <NextScript />
           
