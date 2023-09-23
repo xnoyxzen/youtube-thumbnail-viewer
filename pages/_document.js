@@ -53,9 +53,8 @@ class MyDocument extends Document {
             </nav>
           </header>
 
-         
-<a href="https://www.jdoqocy.com/click-100844527-11793727" target="_top">
-<img src="https://www.lduhtrp.net/image-100844527-11793727" width="728" height="90" alt="" border="0"/></a>
+         <a href="https://www.jdoqocy.com/click-100844527-11146127" target="_top">Managed VPS Platform. Phone Support. Prices starting at $6.00 per month</a><img src="https://www.lduhtrp.net/image-100844527-11146127" width="1" height="1" border="0"/>
+
           <Main />
           <NextScript />
           
